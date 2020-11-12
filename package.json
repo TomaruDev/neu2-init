@@ -8,6 +8,6 @@
 		"release": "neu2 release"
 	},
 	"author": "neu2.project Developers",
-	"license": "MIT",
+	"license": "neu2.license",
 	"private": false
 }
